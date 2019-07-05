@@ -7,7 +7,7 @@ import (
 )
 
 func Bar() {
-	fmt.Println("Bar 003 >")
+	fmt.Println("Bar 004 >")
 	qux.Qux()
-	fmt.Println("Bar 003 <")
+	fmt.Println("Bar 004 <")
 }
